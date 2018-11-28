@@ -1,0 +1,15 @@
+{
+  "name": "just10mintocode/nfc-nfe-laravel",
+  "description": "Repositório público sem fins lucrativos com objetivo de facilitar a emissão de NF-e e NFC-e",
+  "authors": [
+    {
+      "name": "Thomás Soares",
+      "email": "thomas@gmail.com"
+    },
+    {
+      "name": "Tassiano Alencar",
+      "email": "tassiano.alencar@icloud.com"
+    }
+  ],
+  "require": {}
+}
